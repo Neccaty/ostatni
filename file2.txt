@@ -3,3 +3,5 @@ This is file 2!
 This line was added in third commit.
 
 Hello, this is Steve!
+
+Hello! This is Steve from the branch :-)
